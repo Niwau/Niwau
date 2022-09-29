@@ -2,7 +2,7 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando **Análise e Desenvolvimento de Sistemas** em <a href="https://www.faeterj-rio.edu.br/">FAETERJ</a>.
-- 🌱 &nbsp; Aprendendo mais sobre **React, Next.js, MongoDB, PostgreSQL**.
+- 🌱 &nbsp; Aprendendo mais sobre **React, Next.js, MySQL**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
