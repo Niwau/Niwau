@@ -1,6 +1,6 @@
 <!-- Banner -->
 <div align="center">
-  <img width="100%" src="https://i.pinimg.com/originals/7a/fd/d6/7afdd6915a8219f5dcdb89ff990a9a72.gif"/>
+  <img width="100%" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/dece5f124024167.60fb03546918b.gif"/>
 </div>
 
 <!-- Badges -->
