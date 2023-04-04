@@ -1,6 +1,6 @@
 <!-- Banner -->
 <div align="center">
-  <img width="100%" src="https://i.pinimg.com/originals/9f/92/6c/9f926c8c220127d81c8ba6897aa8d5db.gif"/>
+  <img width="100%" src="https://thumbs.gfycat.com/CanineIdleFirecrest-max-1mb.gif"/>
 </div>
 
 <!-- Badges -->
