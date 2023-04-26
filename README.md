@@ -1,6 +1,6 @@
 <!-- Banner -->
 <div align="center">
-  <img width="100%" src="https://thumbs.gfycat.com/CanineIdleFirecrest-max-1mb.gif"/>
+  <img width="100%" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/de7vy8v-130c94de-53f9-4613-8019-da9dcc25379f.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGU3dnk4di0xMzBjOTRkZS01M2Y5LTQ2MTMtODAxOS1kYTlkY2MyNTM3OWYuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.PQKgoLrdOglFZVjX9B2mRjh31AxyXS5ne5fWwDbbH_M"/>
 </div>
 
 <!-- Badges -->
