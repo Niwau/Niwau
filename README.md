@@ -1,6 +1,6 @@
 <!-- Banner -->
 <div align="center">
-  <img width="100%" src="https://anime.atsit.in/wp-content/uploads/2023/04/revisao-do-episodio-1-de-oshi-no-ko-um-comeco-profundamente-perturbador-mas-poderoso-7.png"/>
+  <img width="100%" src="https://wallpapercave.com/wp/wp9791390.gif"/>
 </div>
 
 <!-- Badges -->
