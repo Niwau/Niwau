@@ -1,6 +1,6 @@
 <!-- Banner -->
 <div align="center">
-  <img width="100%" src="https://wallpapercave.com/wp/wp9791390.gif"/>
+  <img width="100%" src="https://ipfs.pixura.io/ipfs/QmTaVR7UhcUZAeUWNCYJGwRXy4fDK8gD6BwRhjfwvqUqyR/FactoryofNothing.gif">
 </div>
 
 <!-- Badges -->
