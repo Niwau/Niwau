@@ -1,6 +1,6 @@
 <!-- Banner -->
 <div align="center">
-  <img width="100%" src="https://ipfs.pixura.io/ipfs/QmTaVR7UhcUZAeUWNCYJGwRXy4fDK8gD6BwRhjfwvqUqyR/FactoryofNothing.gif">
+  <img width="100%" src="https://i.pinimg.com/originals/3e/36/8f/3e368fef38b67dc9045db41da981dd4e.gif">
 </div>
 
 <!-- Badges -->
