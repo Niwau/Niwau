@@ -8,10 +8,10 @@
 <a href="https://instagram.com/niiwau"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://open.spotify.com/user/6oeskrr0sxbtm908mbrywgjoe"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/></a>
 
-### ✨ Hello, I'm Guilherme                     
-- 👨🏻‍🎓 I study **System Analysis in FAETERJ**
-- 🗺 I'm from **Rio de Janeiro, Brazil**
-- 🧙🏻‍♂️ Studying **fullstack** technologies
+### ✨ Hello, I'm Guilherme
+Software developer specialized in TypeScript and JavaScript, with practical experience in technologies such as React and React Native. I use best practices and coding standards. With problem-solving skills and a passion for learning new technologies, I am always looking for innovative ways to improve the efficiency and functionality of the projects I work on.
+
+👨🏻‍🎓 System Analysis in **FAETERJ** - 🗺 Rio de Janeiro, **Brazil**
 
 ## 📖 Learning
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
