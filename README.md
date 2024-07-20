@@ -13,10 +13,6 @@ Software developer specialized in TypeScript and JavaScript, with practical expe
 
 👨🏻‍🎓 System Analysis in **FAETERJ** - 🗺 Rio de Janeiro, **Brazil**
 
-## 📖 Learning
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-
 ## ☄ Languages
 ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
