@@ -1,6 +1,6 @@
 <!-- Banner -->
 <div align="center">
-  <img width="100%" src="https://i.pinimg.com/originals/d8/60/9b/d8609ba6c7e22ec159dcd7be53fab9ae.gif">
+  <img width="100%" src="https://openseauserdata.com/files/114265f662ffeeeb65cf982dc0a54e6a.gif">
 </div>
 
 <!-- Badges -->
