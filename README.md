@@ -1,6 +1,6 @@
 <!-- Banner -->
 <div align="center">
-  <img width="100%" src="https://openseauserdata.com/files/114265f662ffeeeb65cf982dc0a54e6a.gif">
+  <img width="100%" src="https://preview.redd.it/sr7xok3z85p91.gif?width=1080&crop=smart&format=png8&s=1d35ae970bfcd22c7dacd2943bafe6fe48b70e2f">
 </div>
 
 <!-- Badges -->
